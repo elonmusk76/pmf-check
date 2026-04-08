@@ -1,6 +1,10 @@
-import React from "react";
-import ReactDOM from "react-dom/client";
-import App from "./App";
-
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<App />);
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PMF Check</title>
+    <script type="module" src="/index.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
