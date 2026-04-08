@@ -2,9 +2,9 @@
 <html>
   <head>
     <title>PMF Check</title>
-    <script type="module" src="/index.js"></script>
   </head>
   <body>
     <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
